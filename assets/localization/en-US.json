@@ -1,0 +1,13 @@
+{
+  "failures": {
+    "unexpected": "Something unexpected happened :-("
+  },
+  "titles": {
+    "clean_architecture": "Clean Architecture",
+    "cubit": "Cubit",
+    "state": "State"
+  },
+  "common": {
+    "hello": "Hello there!"
+  }
+}
